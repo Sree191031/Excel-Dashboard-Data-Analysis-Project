@@ -20,6 +20,7 @@ Optimize stock levels of low-fat products to avoid overstock and stockouts, ensu
 **5. Sales Performance Benchmarking**
 Compare sales performance of low-fat content products across regions and categories to boost weak areas and leverage successes.
 
+![Demo Video](dashboard-demo.mp4)
 # Dataset Overview
 
 **Data Structure**
