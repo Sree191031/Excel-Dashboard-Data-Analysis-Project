@@ -49,7 +49,7 @@ The dimesnions of Dataset is 8500X12
 
 **Excutive Summary** 
 
-![Dashboard Image](Excel Project/Blinkit Dashboard.png)
+![Dashboard Image](https://github.com/Sree191031/Excel-Data-Analysis-Project/blob/main/Excel%20Project/Blinkit%20Dashboard.png)
 
 
 brief summarisation conclude all the kpis
